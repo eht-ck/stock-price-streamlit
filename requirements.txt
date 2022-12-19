@@ -1,0 +1,4 @@
+cufflinks==0.17.3
+pandas==1.5.2
+streamlit==1.16.0
+yfinance==0.1.93
