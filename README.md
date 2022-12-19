@@ -8,7 +8,8 @@ Install all the required libraries from requirements.txt
 
 ```bash
   pip install -r requirements.txt
- ``` bash
+```
+
 ## Deployment
 
 To deploy this project run
